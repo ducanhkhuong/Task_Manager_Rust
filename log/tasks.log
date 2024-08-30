@@ -1,0 +1,7 @@
+[2024-08-30 14:40:51] Choice: 1, Task: { id: 1, motacongviec: "thucday", trangthai: false, nguoitao: "ducanhkhuong" }
+[2024-08-30 14:42:01] Choice: 4, Task: { id: 1, motacongviec: "thucday", trangthai: false, nguoitao: "ducanhkhuong" }
+[2024-08-30 14:42:39] Choice: 3, Task: { id: 1, motacongviec: "thucday", trangthai: true, nguoitao: "ducanhkhuong" }
+[2024-08-30 14:44:10] Choice: 1, Task: { id: 2, motacongviec: "di nhau", trangthai: false, nguoitao: "ducanhkhuong" }
+[2024-08-30 14:44:25] Choice: 3, Task: { id: 2, motacongviec: "di nhau", trangthai: true, nguoitao: "ducanhkhuong" }
+[2024-08-30 14:45:01] Choice: 2, Task: { id: 1, motacongviec: "thucday", trangthai: true, nguoitao: "ducanhkhuong" }
+[2024-08-30 14:45:24] Choice: 2, Task: { id: 2, motacongviec: "di nhau", trangthai: true, nguoitao: "ducanhkhuong" }
